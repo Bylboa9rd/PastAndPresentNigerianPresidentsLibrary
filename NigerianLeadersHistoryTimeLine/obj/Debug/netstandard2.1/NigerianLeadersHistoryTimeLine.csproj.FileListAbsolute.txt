@@ -1,0 +1,10 @@
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\bin\Debug\netstandard2.1\NigerianLeadersHistoryTimeLine.deps.json
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\bin\Debug\netstandard2.1\NigerianLeadersHistoryTimeLine.dll
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\bin\Debug\netstandard2.1\NigerianLeadersHistoryTimeLine.pdb
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\obj\Debug\netstandard2.1\NigerianLeadersHistoryTimeLine.csproj.AssemblyReference.cache
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\obj\Debug\netstandard2.1\NigerianLeadersHistoryTimeLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\obj\Debug\netstandard2.1\NigerianLeadersHistoryTimeLine.AssemblyInfoInputs.cache
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\obj\Debug\netstandard2.1\NigerianLeadersHistoryTimeLine.AssemblyInfo.cs
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\obj\Debug\netstandard2.1\NigerianLeadersHistoryTimeLine.csproj.CoreCompileInputs.cache
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\obj\Debug\netstandard2.1\NigerianLeadersHistoryTimeLine.dll
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\obj\Debug\netstandard2.1\NigerianLeadersHistoryTimeLine.pdb

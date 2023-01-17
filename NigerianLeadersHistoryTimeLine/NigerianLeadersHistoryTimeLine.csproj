@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <AssemblyName>NigerianLeadersHistoryTimeLine</AssemblyName>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>NigerianLeadersHistoryTimeLine</PackageId>
+    <Title>Nigerian past presidents till date</Title>
+    <Version>1.0.1</Version>
+    <Authors>Goodness</Authors>
+    <Company>GenesysTechhub</Company>
+    <PackAsTool>False</PackAsTool>
+    <PackageReadmeFile>Readme.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/Bylboa9rd/PastAndPresentNigerianPresidentsLibrary</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="Readme.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

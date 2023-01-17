@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NigerianLeadersHistoryTimeLine</id>
+    <version>1.0.0</version>
+    <title>Nigerian past presidents till date</title>
+    <authors>Goodness</authors>
+    <readme>Readme.md</readme>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\bin\Debug\netstandard2.1\NigerianLeadersHistoryTimeLine.dll" target="lib\netstandard2.1\NigerianLeadersHistoryTimeLine.dll" />
+    <file src="C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\Readme.md" target="\Readme.md" />
+  </files>
+</package>

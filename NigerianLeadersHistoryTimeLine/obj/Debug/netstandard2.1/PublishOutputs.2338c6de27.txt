@@ -1,0 +1,3 @@
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\bin\Debug\netstandard2.1\publish\NigerianLeadersHistoryTimeLine.dll
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\bin\Debug\netstandard2.1\publish\NigerianLeadersHistoryTimeLine.deps.json
+C:\Users\KALU'S PC\source\repos\NigerianLeadersHistoryTimeLine\bin\Debug\netstandard2.1\publish\NigerianLeadersHistoryTimeLine.pdb
